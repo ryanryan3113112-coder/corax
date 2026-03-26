@@ -2,8 +2,8 @@ local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/rel
 local Window = WindUI:CreateWindow({
     Title = "CORAXHub",
     Icon = "door-open", -- lucide icon
-    Author = "by .ftgs and .ftgs",
-    Folder = "MySuperHub",
+    Author = "by 065 and crow",
+    Folder = "coraxnofree",
     
     -- ↓ This all is Optional. You can remove it.
     Size = UDim2.fromOffset(580, 460),
