@@ -49,7 +49,7 @@ local Window = WindUI:CreateWindow({
         },
         
         -- ↓ Optional. You can remove it.
-        URL = "YOUR LINK TO GET KEY (Discord, Linkvertise, Pastebin, etc.)",
+        URL = "https://discord.gg/Dp9MRAhu",
         
         -- ↓ Optional. You can remove it.
         SaveKey = false, -- automatically save and load the key.
