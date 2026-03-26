@@ -38,7 +38,7 @@ local Window = WindUI:CreateWindow({
     -- !  ↓  if you DON'T need the key system
     KeySystem = { 
         -- ↓ Optional. You can remove it.
-        Key = { "1234", "5678" },
+        Key = { "06501", "06502" },
         
         Note = "Example Key System.",
         
